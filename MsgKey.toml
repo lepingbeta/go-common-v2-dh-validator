@@ -46,3 +46,7 @@
     key = "validator_invalid_pascalCase"
     default = "不符合pascal风格"
     en-US = "Does not conform to PascalCase style."
+[[key_list]]
+    key = "validator_invalid_snakeCase"
+    default = "不符合snake风格"
+    en-US = "Does not conform to SnakeCase style."
