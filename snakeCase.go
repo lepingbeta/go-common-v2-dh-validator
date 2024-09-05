@@ -2,7 +2,7 @@
  * @Author: Symphony zhangleping@cezhiqiu.com
  * @Date: 2024-09-05 21:27:32
  * @LastEditors: Symphony zhangleping@cezhiqiu.com
- * @LastEditTime: 2024-09-05 22:09:42
+ * @LastEditTime: 2024-09-05 22:36:20
  * @FilePath: /go-common/v2/go-common-v2-dh-validator/isPascalCase.go
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -14,7 +14,7 @@ import (
 
 func validateSnakeCase(account string) bool {
 	// 定义正则表达式
-	pattern := "^[a-z0-9]+(?:_[a-z0-9]+)*$"
+	pattern := "^[a-z]+(?:_[a-z0-9]+)*$"
 
 	return validateRegex(account, pattern)
 }
