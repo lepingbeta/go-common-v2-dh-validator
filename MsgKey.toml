@@ -1,0 +1,48 @@
+[[key_list]]
+    key = "validator_invalid_firstname"
+    default = "无效的firstname"
+    en-US = "Invalid first name."
+[[key_list]]
+    key = "validator_invalid_chinese_mobile"
+    default = "无效的手机号码"
+    en-US = "Invalid mobile phone number."
+[[key_list]]
+    key = "validator_invalid_invite_code"
+    default = "无效的邀请码"
+    en-US = "Invalid invitation code."
+[[key_list]]
+    key = "validator_invalid_lastname"
+    default = "无效的姓氏"
+    en-US = "Invalid surname."
+[[key_list]]
+    key = "validator_invalid_nickname"
+    default = "无效的昵称"
+    en-US = "Invalid nickname."
+[[key_list]]
+    key = "validator_invalid_gender"
+    default = "无效的性别"
+    en-US = "Useless gender."
+[[key_list]]
+    key = "validator_invalid_mongoid"
+    default = "无效的id"
+    en-US = "Invalid ID."
+[[key_list]]
+    key = "validator_invalid_image"
+    default = "无效的图片"
+    en-US = "Invalid image."
+[[key_list]]
+    key = "validator_invalid_account"
+    default = "无效的账号"
+    en-US = "Invalid account."
+[[key_list]]
+    key = "validator_invalid_password"
+    default = "无效的密码"
+    en-US = "Invalid password."
+[[key_list]]
+    key = "validator_invalid_findInDb"
+    default = "查询结果不符合预期"
+    en-US = "The search result does not meet expectations."
+[[key_list]]
+    key = "validator_invalid_pascalCase"
+    default = "不符合pascal风格"
+    en-US = "Does not conform to PascalCase style."
