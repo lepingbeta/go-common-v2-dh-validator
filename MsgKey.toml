@@ -2,51 +2,64 @@
     key = "validator_invalid_firstname"
     default = "无效的firstname"
     en-US = "Invalid first name."
+    zh-TW = "無效的First Name"
 [[key_list]]
     key = "validator_invalid_chinese_mobile"
     default = "无效的手机号码"
     en-US = "Invalid mobile phone number."
+    zh-TW = "無效的電話號碼"
 [[key_list]]
     key = "validator_invalid_invite_code"
     default = "无效的邀请码"
     en-US = "Invalid invitation code."
+    zh-TW = "無效的邀請碼"
 [[key_list]]
     key = "validator_invalid_lastname"
     default = "无效的姓氏"
     en-US = "Invalid surname."
+    zh-TW = "無效的姓氏"
 [[key_list]]
     key = "validator_invalid_nickname"
     default = "无效的昵称"
     en-US = "Invalid nickname."
+    zh-TW = "無效的昵稱"
 [[key_list]]
     key = "validator_invalid_gender"
     default = "无效的性别"
-    en-US = "Useless gender."
+    en-US = "Invalid gender."
+    zh-TW = "無效的性別"
 [[key_list]]
     key = "validator_invalid_mongoid"
     default = "无效的id"
     en-US = "Invalid ID."
+    zh-TW = "無效的ID"
 [[key_list]]
     key = "validator_invalid_image"
     default = "无效的图片"
     en-US = "Invalid image."
+    zh-TW = "無效的圖片"
 [[key_list]]
     key = "validator_invalid_account"
     default = "无效的账号"
     en-US = "Invalid account."
+    zh-TW = "無效的帳號"
 [[key_list]]
     key = "validator_invalid_password"
     default = "无效的密码"
     en-US = "Invalid password."
+    zh-TW = "無效的密碼"
 [[key_list]]
     key = "validator_invalid_findInDb"
     default = "查询结果不符合预期"
-    en-US = "The search result does not meet expectations."
+    en-US = "Query results do not meet expectations."
+    zh-TW = "查询結果不符預期。"
 [[key_list]]
     key = "validator_invalid_pascalCase"
     default = "不符合pascal风格"
-    en-US = "Does not conform to PascalCase style."
+    en-US = "does not conform to the Pascal style."
+    zh-TW = "不符Pascal風格"
 [[key_list]]
     key = "validator_invalid_snakeCase"
     default = "不符合snake风格"
-    en-US = "Does not conform to SnakeCase style."
+    en-US = "Unconventional."
+    zh-TW = "不符蛇風格"
